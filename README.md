@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *any language I know*.
 
-- 📫 You can reach me through *irum.imtiaz@example.com* (replace with your real email).
+- 📫 You can reach me through irumimtiaz175@gmail.com (replace with your real email).
 
 - ⚡ Fun fact *I am out of reach*.
 
