@@ -23,7 +23,7 @@
 
 <h3 align="left">TryHackMe Profile:</h3>
 <p align="left">
-  <a href="https://tryhackme.com/p/kiwi0.0" target="_blank"><img src="https://tryhackme-badges.s3.amazonaws.com/kiwi0.0.png" alt="TryHackMe Badge" /></a>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1827047" style='border:none;'></iframe>
 </p>
 
 <h3 align="left">Languages:</h3>
