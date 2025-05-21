@@ -21,10 +21,11 @@
 <a href="https://www.instagram.com/your_instagram_handle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">TryHackMe Profile:</h3>
+<h3 align="left">TryHackMe Badge:</h3>
 <p align="left">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1827047" style='border:none;'></iframe>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1827047" width="340" height="300" style="border:none;"></iframe>
 </p>
+
 
 <h3 align="left">Languages:</h3>
 <p align="left">
