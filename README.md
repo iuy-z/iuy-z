@@ -1,12 +1,6 @@
 <a href="https://github.com/iuy-z"><img src="https://i.postimg.cc/d3cyQ5x2/img-2.png" width="100%" height="20%"></a>
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Irum Imtiaz</h1>
-<h3 align="center">A passionate Cyber Security student from Pakistan</h3>
-
-- 🔭 I’m currently working on *my skills*.
-
-- 🌱 I’m currently learning *Python*.
-
-- 👯 I’m looking to collaborate on *Every knowledgeable and professional project*.
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Irum</h1>
+<h3 align="center">A passionate Cyber Security Student</h3>
 
 
 <h3 align="left">Connect with me:</h3>
