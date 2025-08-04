@@ -8,11 +8,6 @@
 
 - 👯 I’m looking to collaborate on *Every knowledgeable and professional project*.
 
-- 💬 Ask me about *any language I know*.
-
-- 📫 You can reach me through irumimtiaz175@gmail.com (replace with your real email).
-
-- ⚡ Fun fact *I am out of reach*.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
