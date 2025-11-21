@@ -59,4 +59,4 @@
     </a>
 </p>
 
-<h1 align='center'><i>Stay Learning!</i></h1>
+
